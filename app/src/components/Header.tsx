@@ -245,7 +245,7 @@ export function Header() {
         @media (max-width: 900px) {
           .header__nav { display: none; }
           .header__menu-btn { display: flex; align-items: center; justify-content: center; }
-          .header__left { flex-direction: column; align-items: flex-start; }
+          .header__left { align-items: center; }
         }
       `}</style>
     </>
